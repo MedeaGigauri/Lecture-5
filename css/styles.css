@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+body{
+    font-family: "Inter", sans-serif;
+}
+header{
+    width: 100%;
+    height:100px;
+    padding: 22px 100px;
+}
+.logo{
+    vertical-align: middle;
+}
+.nav{
+    display: inline-block;
+    margin-left: 195px;
+    vertical-align: middle;
+}
+.list-item{
+    display: inline-block;
+    margin-left: 50px;
+
+}
+.book-now, .discover-now {
+    background-color: #FF5403;
+    font-size: 18px;
+    color: #FFFFFF;
+    
+}
+.book-now{
+    padding: 13px 50px;
+    margin-left: 195px;
+
+}
+.discover-now{
+    display: inline-block;
+    padding: 22px 64px;
+}
+.banner-bg{
+    height: 722px;
+    width: 100%;
+}
+.banner-bg-container{
+    height: 722px;
+    width: 100%;
+    background-image: url(../images/banner_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    text-align: center;
+    padding-top: 190px;
+}
+.title{
+    font-size: 96px;
+    color: #FFFFFF;
+    font-weight: bold;
+    line-height: 115px;
+}
+.desc{
+    font-size: 20px;
+    color: #FFFFFF;
+    margin: 5px 0px 79px 0px;
+}
+.places-to-visit{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 36px;
+    color: #041562;
+}
+.best-places{
+    text-align: center;
+    font-size: 18px;
+    color: #626262;
+    margin-top: 10px;
+}
+.images-rows{
+    width: 1312px;
+    margin: 75px auto 75px auto;
+}
+.first-row-1, .second-row-1{
+    width: 600px;
+    height: 415px;
+    margin-right: 50px;
+}
+.first-row-2, .second-row-2{
+    width: 600px;
+    height: 415px;
+    
+}
+.second-row-1, .second-row-2{
+    margin-bottom: 70px;
+}
+.discover-more{
+    background-color: #FF5403;
+    font-size: 18px;
+    color: #FFFFFF;
+    Padding: 13px 30px 13px 50px;
+    margin-left: 530px;
+    text-align: center;
+}
+.hotel-images{
+    width: 304px;
+    height: 238px;
+    margin-left: 100px;
+    margin-top: 75px;
+}
+.hotel-1{
+    font-size: 24px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.hotel-stars{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+.reviews{
+    display: inline-block;
+    vertical-align: middle;
+}
+.reviews-200{
+    font-size: 16px;
+}
+.address{
+    color: #626262;
+    font-size: 16px;
+    margin-left: 100px;
+}
+.price-from{
+    color: #626262;
+    font-size: 18px;
+    margin-left: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+.price{
+    color:#DA1212;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+.hotels-1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 53px;
+}
+.hotels-2{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 53px;
+}
+.hotels-3{
+    display: inline-block;
+    vertical-align: middle;
+}
+.hotels{
+    display: inline-block;
+    vertical-align: middle;
+}
+footer{
+    Width: 100%;
+    height: 519px;
+    background-color: #19224D;
+    margin-top: 75px;
+    
+}
+.footer-logo{
+    width: 337px;
+    height: 249px;
+    margin-left: 100px;
+    margin-top: 108px;
+    margin-bottom: 97px;
+
+}
+.footer-div{
+    display: inline-block;
+    vertical-align: middle;
+}
+.destinations{
+    display: inline-block;
+    vertical-align: middle;
+    color: #FFFFFF;
+    margin-left: 200px;
+    font-size: 18px;
+    line-height: 30px;
+    width: 314px;
+    height: 250px;
+    padding: 100px auto 100px auto;
+    margin-top: 60px;
+}
+.disc-dest{
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.contact-us{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.contact-us-div{
+    display: inline-block;
+    color: #FFFFFF;
+    display: inline-block;
+    vertical-align: middle;
+    width: 314px;
+    height: 250px;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.contact-us-info{
+    color: #FFFFFF;
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 2px;
+}
+.social-media{
+    margin-top: 45px;
+    color: #FF5403;
+    font-weight:bold;
+    margin-bottom: 8px;
+}
+.copyright-div{
+    width: 100%;
+    height: 65px;
+    margin: auto;
+    background-color: #000B3E;
+}
+.copyright-text{
+    text-align: center;
+    color:#C4C4C4;
+    font-size: 16px;
+    padding: 23px 629px;
+}
